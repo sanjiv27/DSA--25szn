@@ -1,0 +1,1 @@
+{"name":"Local: 11312 UVA","url":"/Users/mohanraj/Documents/DSA/Graphs/11312 UVA.cpp","tests":[{"id":1742762323849,"input":"5\n10 5 4 1\n1000 2 1 42\n100 2 4 66\n101 60 70 51\n100 2 3 98\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mohanraj/Documents/DSA/Graphs/11312 UVA.cpp","group":"local","local":true}
